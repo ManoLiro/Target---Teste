@@ -1,0 +1,15 @@
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\bin\Debug\net6.0\PercentualMensal.exe
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\bin\Debug\net6.0\PercentualMensal.deps.json
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\bin\Debug\net6.0\PercentualMensal.runtimeconfig.json
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\bin\Debug\net6.0\PercentualMensal.dll
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\bin\Debug\net6.0\PercentualMensal.pdb
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.csproj.AssemblyReference.cache
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.AssemblyInfoInputs.cache
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.AssemblyInfo.cs
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.csproj.CoreCompileInputs.cache
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.dll
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\refint\PercentualMensal.dll
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.pdb
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\PercentualMensal.genruntimeconfig.cache
+C:\Users\Segline_Dev\Desktop\Faturamento Por Estado\C#\PercentualMensal\obj\Debug\net6.0\ref\PercentualMensal.dll

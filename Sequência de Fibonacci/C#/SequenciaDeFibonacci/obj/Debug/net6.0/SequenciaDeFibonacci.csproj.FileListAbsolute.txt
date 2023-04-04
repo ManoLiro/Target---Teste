@@ -1,0 +1,15 @@
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\bin\Debug\net6.0\SequenciaDeFibonacci.exe
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\bin\Debug\net6.0\SequenciaDeFibonacci.deps.json
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\bin\Debug\net6.0\SequenciaDeFibonacci.runtimeconfig.json
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\bin\Debug\net6.0\SequenciaDeFibonacci.dll
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\bin\Debug\net6.0\SequenciaDeFibonacci.pdb
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.csproj.AssemblyReference.cache
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.AssemblyInfoInputs.cache
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.AssemblyInfo.cs
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.dll
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\refint\SequenciaDeFibonacci.dll
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.pdb
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\SequenciaDeFibonacci.genruntimeconfig.cache
+C:\Users\Segline_Dev\Desktop\Sequência de Fibonacci\C#\SequenciaDeFibonacci\obj\Debug\net6.0\ref\SequenciaDeFibonacci.dll
